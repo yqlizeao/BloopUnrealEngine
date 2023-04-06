@@ -1,0 +1,5 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\Lumin\Lumin.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\Lumin\Lumin.Automation.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Lumin\obj\Development\Lumin.Automation.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Lumin\obj\Development\Lumin.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Lumin\obj\Development\Lumin.Automation.pdb

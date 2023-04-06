@@ -1,0 +1,7 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\IOS\MobileDeviceInterface.dll.config
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\IOS\MobileDeviceInterface.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\IOS\MobileDeviceInterface.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Development\MobileDeviceInterface.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Development\MobileDeviceInterface.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Development\MobileDeviceInterface.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\IOS\MobileDeviceInterface\obj\Development\MobileDeviceInterface.pdb

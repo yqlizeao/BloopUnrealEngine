@@ -1,0 +1,7 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\AutomationScripts.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\AutomationScripts.Automation.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Scripts\obj\Development\AutomationScripts.Automation.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Scripts\obj\Development\AutomationScripts.Automation.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Scripts\obj\Development\AutomationScripts.Automation.csproj.CopyComplete
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Scripts\obj\Development\AutomationScripts.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Scripts\obj\Development\AutomationScripts.Automation.pdb

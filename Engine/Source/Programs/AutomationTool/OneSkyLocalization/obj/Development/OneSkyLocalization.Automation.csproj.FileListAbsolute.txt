@@ -1,0 +1,6 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\OneSkyLocalization.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\OneSkyLocalization.Automation.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Development\OneSkyLocalization.Automation.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Development\OneSkyLocalization.Automation.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Development\OneSkyLocalization.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Development\OneSkyLocalization.Automation.pdb

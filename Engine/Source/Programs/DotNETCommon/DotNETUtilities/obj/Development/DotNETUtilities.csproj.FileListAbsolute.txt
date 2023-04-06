@@ -1,0 +1,6 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\DotNETUtilities.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\DotNETUtilities.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\DotNETCommon\DotNETUtilities\obj\Development\DotNETUtilities.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\DotNETCommon\DotNETUtilities\obj\Development\DotNETUtilities.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\DotNETCommon\DotNETUtilities\obj\Development\DotNETUtilities.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\DotNETCommon\DotNETUtilities\obj\Development\DotNETUtilities.pdb

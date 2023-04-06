@@ -1,0 +1,6 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\XLocLocalization.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\XLocLocalization.Automation.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\XLocLocalization\obj\Development\XLocLocalization.Automation.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\XLocLocalization\obj\Development\XLocLocalization.Automation.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\XLocLocalization\obj\Development\XLocLocalization.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\XLocLocalization\obj\Development\XLocLocalization.Automation.pdb

@@ -1,0 +1,7 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationToolLauncher.exe.config
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationToolLauncher.exe
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationToolLauncher.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationToolLauncher\obj\Development\AutomationToolLauncher.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationToolLauncher\obj\Development\AutomationToolLauncher.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationToolLauncher\obj\Development\AutomationToolLauncher.exe
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationToolLauncher\obj\Development\AutomationToolLauncher.pdb

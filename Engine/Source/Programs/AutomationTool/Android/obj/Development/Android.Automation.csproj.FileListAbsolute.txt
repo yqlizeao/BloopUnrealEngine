@@ -1,0 +1,7 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\Android\Android.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\Android\Android.Automation.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Android\obj\Development\Android.Automation.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Android\obj\Development\Android.Automation.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Android\obj\Development\Android.Automation.csproj.CopyComplete
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Android\obj\Development\Android.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Android\obj\Development\Android.Automation.pdb

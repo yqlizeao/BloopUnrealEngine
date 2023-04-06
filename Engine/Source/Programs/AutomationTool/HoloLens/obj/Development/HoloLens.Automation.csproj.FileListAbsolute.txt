@@ -1,0 +1,7 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\HoloLens\HoloLens.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\HoloLens\HoloLens.Automation.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.csproj.CopyComplete
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.pdb

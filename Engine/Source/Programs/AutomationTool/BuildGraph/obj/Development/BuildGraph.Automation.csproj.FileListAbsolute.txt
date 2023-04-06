@@ -1,0 +1,7 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.xml
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.pdb

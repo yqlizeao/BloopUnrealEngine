@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleName</key>
+	<string>DatasmithARCHICAD$(AC_VERSION)Exporter</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.epicgames.DatasmithARCHICAD$(AC_VERSION)Exporter</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleGetInfoString</key>
+	<string>${PRODUCT_NAME} ${AC_SDK_BUILD_NUMBER} v${VAddOn}, Copyright © 2021 by Epic Games.  All rights reserved.</string>
+	<key>LSRequiresCarbon</key>
+	<true/>
+	<key>CFBundlePackageType</key>
+	<string>.APX</string>
+	<key>CFBundleSignature</key>
+	<string>GSAP</string>
+	<key>CFBundleIconFile</key>
+	<string>ArchiCADPlugin.icns</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleShortVersionString</key>
+	<string>Datasmith ARCHICAD $(AC_VERSION) Exporter</string>
+</dict>
+</plist>

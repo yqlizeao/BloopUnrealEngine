@@ -1,0 +1,9 @@
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\Gauntlet.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Binaries\DotNET\AutomationScripts\Gauntlet.Automation.pdb
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.csprojAssemblyReference.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.Properties.Resources.resources
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.csproj.GenerateResource.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.csproj.CoreCompileInputs.cache
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.csproj.CopyComplete
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.dll
+E:\GitHub\UnrealEngineSourceCode\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.pdb
